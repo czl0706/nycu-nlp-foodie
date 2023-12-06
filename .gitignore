@@ -5,6 +5,7 @@ archived/
 *.bak
 *.pickle
 *.csv
+*test*
 
 *.so
 
