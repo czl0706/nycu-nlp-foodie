@@ -7,6 +7,9 @@ archived/
 *.csv
 *test*
 
+# include rag_data.*
+!rag_data.*
+
 *.so
 
 # Byte-compiled / optimized / DLL files
